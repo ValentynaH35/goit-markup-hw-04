@@ -266,7 +266,9 @@ img {
   justify-content: center;
 }
 
-.studio-icon {
+.studio-icon-container svg {
+  width: 64px;
+  height: 64px;
 }
 
 .studio-subtitle {
