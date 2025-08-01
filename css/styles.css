@@ -455,12 +455,13 @@ img {
 .footer-container {
   display: flex;
   justify-content: flex-start;
-  align-items: flex-start;
-  gap: 120px; /* саме ця відстань */
+  align-items: baseline;
+  gap: 120px;
 }
 
 .footer-logo-text {
   max-width: 264px;
+  margin-right: 120px;
 }
 
 .footer-logo {
